@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Credential and personal information
+data/events.json
+~/.credentials
